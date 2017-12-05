@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DailyGoal</string>
+    <string name="title_details">Details</string>
+
+    <string name="addgoal">Add your new goal</string>
+    <string name="inputgoal">Input your new goal</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid">It has invalid characters</string>
+    <string name="samegoal">Already have same goal</string>
+    <string name="in_a_row">days\nin a row</string>
+    <string name="achieved">Achieved</string>
+    <string name="notachieved">Failed</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="later">Later</string>
+    <string name="delete">\n Do you delete all data of this goal ?</string>
+    <string name="didyou_achi">\nDid you achieve it ?</string>
+    <string name="save_success">Successfully Saved!</string>
+    <string name="close">CLOSE</string>
+    <string name="alarm">Alarm</string>
+    <string name="notsaveyet">There are not saved data.</string>
+    <string name="dontsave">Not Save</string>
+    <string name="move">Move this item ?</string>
+    <string name="totop">To top</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="tobottom">To Bottom</string>
+    <string name="alarm_message">Achieve today\'s goal ?</string>
+    <string name="congrats_title">%1$s\nCongrats!!\nAchieved %2$s days in a row.\nShare with your friends！</string>
+    <string name="fb_share">I achieved this goal %1$s days in a row!</string>
+    <string name="twitter_share">\"%1$s\" I achieved this goal %2$s days in a row!</string>
+    <string name="country">en</string>
+
+    <string name="action_alerm">Alerm</string>
+    <string name="action_write">Write</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="app_id">1477044599259902</string>
+
+</resources>

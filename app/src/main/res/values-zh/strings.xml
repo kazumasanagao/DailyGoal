@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">我的目标</string>
+    <string name="title_details">一览表</string>
+
+    <string name="addgoal">追加目标</string>
+    <string name="inputgoal">请输入你的目标</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="invalid">有无效的文字</string>
+    <string name="samegoal">已经有一样的目标</string>
+    <string name="in_a_row">天\n连续</string>
+    <string name="achieved">完成</string>
+    <string name="notachieved">不完成</string>
+    <string name="yes">对</string>
+    <string name="no">不</string>
+    <string name="later">然后</string>
+    <string name="delete">\n 删除这个目标码？</string>
+    <string name="didyou_achi">\n完成了吗？</string>
+    <string name="save_success">保存成功了</string>
+    <string name="close">关闭</string>
+    <string name="alarm">闹钟</string>
+    <string name="notsaveyet">有一些变更</string>
+    <string name="dontsave">不要保存</string>
+    <string name="move">移动这个目标吗？</string>
+    <string name="totop">最上</string>
+    <string name="up">上一个</string>
+    <string name="down">下一个</string>
+    <string name="tobottom">最下</string>
+    <string name="alarm_message">完成目标了吗？</string>
+    <string name="congrats_title">%1$s\n恭喜！连续%2$s天完成！\n与朋友分享！</string>
+    <string name="fb_share">连续%1$s天完成！</string>
+    <string name="twitter_share">“%1$s”连续%2$s天完成!</string>
+    <string name="country">zh</string>
+
+    <string name="action_alerm">闹钟</string>
+    <string name="action_write">纪录</string>
+    <string name="action_delete">删除</string>
+
+    <string name="app_id">1477044599259902</string>
+</resources>

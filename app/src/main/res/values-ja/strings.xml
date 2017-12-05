@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">わたしの目標</string>
+    <string name="title_details">一覧</string>
+
+    <string name="addgoal">新しい目標の追加</string>
+    <string name="inputgoal">目標を入力してください</string>
+    <string name="save">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="invalid">無効な文字が含まれています</string>
+    <string name="samegoal">すでに同じ目標があります</string>
+    <string name="in_a_row">日\n連続</string>
+    <string name="achieved">達成</string>
+    <string name="notachieved">不達成</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="later">あとで</string>
+    <string name="delete">\n についてのすべての記録を削除しますか？</string>
+    <string name="didyou_achi">\n達成しましたか？</string>
+    <string name="save_success">データが保存されました</string>
+    <string name="close">閉じる</string>
+    <string name="alarm">お知らせ</string>
+    <string name="notsaveyet">変更されたデータがあります</string>
+    <string name="dontsave">保存しない</string>
+    <string name="move">移動しますか？</string>
+    <string name="totop">一番上へ</string>
+    <string name="up">上へ</string>
+    <string name="down">下へ</string>
+    <string name="tobottom">一番下へ</string>
+    <string name="alarm_message">目標は達成しましたか？</string>
+    <string name="congrats_title">%1$s\n%2$s日連続達成おめでとう！\n友達に自慢しちゃおう！</string>
+    <string name="fb_share">目標を%1$s日連続で達成しました!</string>
+    <string name="twitter_share">「%1$s」という目標を%2$s日連続で達成しました!</string>
+    <string name="country">ja</string>
+
+    <string name="action_alerm">アラーム</string>
+    <string name="action_write">記録</string>
+    <string name="action_delete">削除</string>
+
+    <string name="app_id">1477044599259902</string>
+</resources>

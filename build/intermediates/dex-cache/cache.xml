@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kazumasanagao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-f3ce6bcee7bdfc0aa9fc271d0e90ab213c0c00f3.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-da02e4e817148d6340766ce279dc8e8f3159f64b.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.facebook.android/facebook/4.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f60ba550a6aab3dfdb6d8591126c851a2d9c1d7">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-cb195ee745c7757c672a1b8ac3192337c31399a7.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-2dcbe81c86b78a54ecd3b59703979af7e2241807.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-8f6cda5a9ecc16659542bb1bfb1e3848be0b185b.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-9a84c9054fc683bc07046ffc4359f87ce5977dca.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-797daa3aa7bb7edca5d58a8094c586bd2d23487f.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-e40da7cd5ab713df3c3585ac525a2211fee0ba7d.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-6033e65c0061bd28cc92a14b56817652147e5c19.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-6c46026f3d29dd2963e45439437b833e6159adad.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-5096ad2f51ab432a5d3e32dfcb348b4032675961.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-511830c04ae6e7bafc2810380fe775294631ad67.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-0f90df9e7fbbfed1c47b723f85e98068ed4169a1.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-a4281ed912fc3c1a7075b3d39af27a8528a60549.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-4b17b866b42bbd33a6caa194ea93da6f044bb094.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-718a598413abbfa15b53695343165fa3b3556b5c.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-3c0ecf7c47c861d3fc737315c1332cc93a48a6b2.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-40a49b9935ca09ca38bd61876ff81154d7370b52.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-57b1ddea82d69272517b6be38cfe59a1ec8a3586.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-87a51fc76b6e087857e1ef9eddab66ce2670ad78.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-e1c611cf9f581368453f58f459f059267f619922.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-bc1184500bebb22a6714f7877df27a3643e5a0e9.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-41b215ee41ef81e67a54648281b576ad14de7c89.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-cdeb27561350d8fbbb39d92f8d4301e08af591df.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-154c819685072eb55cb6fd177aa364fee98bca60.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-0be21e7221661d344ce90cb4e5ebcb65d5feb6d5.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-44dedffd9f9199f2fb10afa61019a4186b68a7da.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/kazumasanagao/Documents/Programing_practice/Calendar/app/build/intermediates/pre-dexed/debug/classes-972a61b25d3c72a28c8f4a6359ca7cda960f7f52.jar" />
+    </item>
+
+</items>
